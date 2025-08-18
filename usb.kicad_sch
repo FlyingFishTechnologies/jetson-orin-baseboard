@@ -38169,7 +38169,7 @@
 		)
 		(uuid "e149ab50-51d4-479e-ba64-1c9b9071af5b")
 	)
-	(text "CTL0"
+	(text "CTL1"
 		(exclude_from_sim no)
 		(at 151.765 92.71 0)
 		(effects
@@ -38182,7 +38182,7 @@
 		)
 		(uuid "e6d48ade-acda-436d-928c-fc45e54c0093")
 	)
-	(text "CTL1"
+	(text "CTL0"
 		(exclude_from_sim no)
 		(at 158.115 92.71 0)
 		(effects
